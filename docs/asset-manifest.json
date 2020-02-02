@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.403576c7.chunk.css",
+    "main.js": "./static/js/main.e15621d8.chunk.js",
+    "main.js.map": "./static/js/main.e15621d8.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.44308c65.js",
+    "runtime-main.js.map": "./static/js/runtime-main.44308c65.js.map",
+    "static/js/2.3b81241a.chunk.js": "./static/js/2.3b81241a.chunk.js",
+    "static/js/2.3b81241a.chunk.js.map": "./static/js/2.3b81241a.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.73a4322a66b54dd6e4a096c21691e806.js": "./precache-manifest.73a4322a66b54dd6e4a096c21691e806.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.403576c7.chunk.css.map": "./static/css/main.403576c7.chunk.css.map",
+    "static/js/2.3b81241a.chunk.js.LICENSE": "./static/js/2.3b81241a.chunk.js.LICENSE",
+    "static/media/batidor.svg": "./static/media/batidor.5f783c02.svg",
+    "static/media/dieta.svg": "./static/media/dieta.47829379.svg",
+    "static/media/facebook.svg": "./static/media/facebook.d99368ca.svg",
+    "static/media/gorjeo.svg": "./static/media/gorjeo.88c38bdc.svg",
+    "static/media/App.css": "./static/media/headerphoto.580d7e36.jpg",
+    "static/media/home.svg": "./static/media/home.966e5d31.svg",
+    "static/media/kilogramos.svg": "./static/media/kilogramos.1a6f692e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44308c65.js",
+    "static/js/2.3b81241a.chunk.js",
+    "static/css/main.403576c7.chunk.css",
+    "static/js/main.e15621d8.chunk.js"
+  ]
+}

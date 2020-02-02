@@ -1,0 +1,153 @@
+html{
+  font-family: 'Montserrat', sans-serif;;
+}
+.App{
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  background-color: #f2fcea;
+}
+.header{
+  width: 100%;
+  height: 230px;
+  background-image: url(../images/headerphoto.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.header__title{
+  margin: 0;
+  padding: 40px;
+  font-size: 90px;
+  font-family: 'Marck Script', cursive;;
+  color: #f2fcea;
+  text-align: right;
+
+}
+
+.image-recipe{
+  width: 100%;
+  max-width: 200px;
+}
+
+.form__search{
+  width: 400px;
+  height: 30px;
+  margin: 20px;
+  border: 1px solid #5b8948;
+}
+
+.list__container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 200px);
+  grid-gap: 15px;
+  margin: 0 auto;
+  max-width: 900px;
+  justify-content: center;	
+  justify-items: center;
+}
+.repipe-wrapper{
+  width: 200px;
+  height: 250px;
+  background-color: #5b8948;
+  padding: 20px;
+  border-radius: 10px;
+  color: #f2fcea;
+  
+
+}
+.repipe-wrapper:hover{
+transition: all 1s ease;
+height: 270px;
+width: 220px;
+}
+
+.recipe__title{
+  margin: 0 auto;
+  padding: 5px;
+
+}
+
+.recipe-info-btn{
+  margin:0 10px;
+}
+
+.recipe-info-wrapper{
+ display: flex;
+ flex-direction: column;
+ max-width: 900px;
+ background-color: #648755;
+ border-radius: 10px;
+ margin: 20px auto;
+ padding: 0 30px;
+}
+.recipe-info-title{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.recipe__info-img{
+  width: 400px;
+  border-radius: 10px;
+}
+.ingredients__container{
+  line-height: 150%;
+  font-size: 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-right: 60px;
+}
+
+.ingredients__list{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-left: 20px;
+
+
+}
+.header__recipeInfo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 20px;
+  color: #f2fcea;
+}
+.social__link{
+  display: inline-block;
+  margin: 0 10px;
+  width:40px;
+  height: 40px;
+  
+}
+
+.social__container{
+ display: flex;
+ flex-direction: row;
+ padding: 24.9px;
+ color: #f2fcea;
+}
+.image_link{
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  
+}
+.image_link:hover{
+  width:40px;
+  height:40px;
+  transition: all 0.8s ease;
+
+}
+
+.icon__recipe{
+  width: 35px;
+  text-align: center;
+  padding: 3px;
+  margin-bottom: 10px;
+  
+}
+
+.recipe__text{
+  line-height: 180%
+}
