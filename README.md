@@ -1,7 +1,7 @@
 Buscador de Recetas Italianas
 
 
-![Buon Appetito](./readmeImage.png)
+![Buon Appetito](./public/readmeImage.png)
 
 
 El proyecto, página web con un listado de platos italinos, en lo que si pinchas puedes acceder a la receta. 
